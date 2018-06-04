@@ -16,4 +16,4 @@ I'd like to use my datacamp.com membership during the next month to learn:
 
 Datacamp also has a practice feature, so I'm trying to stick to daily practice too.
 
-My profile is here at (datacamp.com/profile/ryanabooth)[https://www.datacamp.com/profile/ryanabooth].
+My profile is here at [datacamp.com/profile/ryanabooth](https://www.datacamp.com/profile/ryanabooth).
